@@ -1,0 +1,9 @@
+C:\Users\josec.GANCOCE-PC\source\repos\github\github\bin\Debug\github.exe.config
+C:\Users\josec.GANCOCE-PC\source\repos\github\github\bin\Debug\github.exe
+C:\Users\josec.GANCOCE-PC\source\repos\github\github\bin\Debug\github.pdb
+C:\Users\josec.GANCOCE-PC\source\repos\github\github\obj\Debug\github.csprojAssemblyReference.cache
+C:\Users\josec.GANCOCE-PC\source\repos\github\github\obj\Debug\github.Properties.Resources.resources
+C:\Users\josec.GANCOCE-PC\source\repos\github\github\obj\Debug\github.csproj.GenerateResource.cache
+C:\Users\josec.GANCOCE-PC\source\repos\github\github\obj\Debug\github.csproj.CoreCompileInputs.cache
+C:\Users\josec.GANCOCE-PC\source\repos\github\github\obj\Debug\github.exe
+C:\Users\josec.GANCOCE-PC\source\repos\github\github\obj\Debug\github.pdb
