@@ -7,3 +7,4 @@ C:\Users\josec.GANCOCE-PC\source\repos\github\github\obj\Debug\github.csproj.Gen
 C:\Users\josec.GANCOCE-PC\source\repos\github\github\obj\Debug\github.csproj.CoreCompileInputs.cache
 C:\Users\josec.GANCOCE-PC\source\repos\github\github\obj\Debug\github.exe
 C:\Users\josec.GANCOCE-PC\source\repos\github\github\obj\Debug\github.pdb
+C:\Users\josec.GANCOCE-PC\source\repos\github\github\obj\Debug\github.Form1.resources
